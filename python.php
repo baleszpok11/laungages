@@ -15,7 +15,7 @@
 <?php include 'header.php'; ?>
 <main>
     <h1>Python</h1>
-    <img src="images/python-logo.png" alt="Python Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" class="logo">
     <h2>Leírás</h2>
     <p>A Python egy magas szintű, általános célú programozási nyelv, amelyet Guido van Rossum fejlesztett ki. Először 1991-ben jelent meg.</p>
 

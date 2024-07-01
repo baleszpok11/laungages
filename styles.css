@@ -85,6 +85,11 @@ img {
     margin-bottom: 1em;
 }
 
+img.logo {
+    max-width: 6em;
+    max-height: 6em;
+}
+
 .animate__animated {
     animation-duration: 2s;
 }

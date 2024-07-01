@@ -9,7 +9,6 @@
             <li><a href="cpp.php">C++</a></li>
             <li><a href="csharp.php">C#</a></li>
             <li><a href="favorites.php">Kedvenc oldalak</a></li>
-            <li><a href="contact.php">Kapcsolat</a></li>
         </ul>
     </nav>
 </header>
