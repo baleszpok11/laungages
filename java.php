@@ -7,7 +7,7 @@
     <meta name="description" content="A website about programming languages">
     <meta name="robots" content="index, follow">
     <title>Java - Programozási Nyelvek</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
@@ -15,9 +15,11 @@
 <?php include 'header.php'; ?>
 <main>
     <h1>Java</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java Logo" class="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"
+         alt="Java Logo" class="logo">
     <h2>Leírás</h2>
-    <p>A Java egy magas szintű, osztály alapú, objektum-orientált programozási nyelv, amelyet a Sun Microsystems fejlesztett ki, és 1995-ben jelent meg.</p>
+    <p>A Java egy magas szintű, osztály alapú, objektum-orientált programozási nyelv, amelyet a Sun Microsystems
+        fejlesztett ki, és 1995-ben jelent meg.</p>
 
     <h2>Előnyök</h2>
     <ul>
@@ -42,7 +44,8 @@ public class HelloWorld {
         </code></pre>
 
     <h2>További Információk</h2>
-    <p>További információkat találhat a <a href="https://www.java.com" target="_blank">hivatalos Java weboldalon</a>.</p>
+    <p>További információkat találhat a <a href="https://www.java.com" target="_blank">hivatalos Java weboldalon</a>.
+    </p>
 
     <h2>Táblázat</h2>
     <table>

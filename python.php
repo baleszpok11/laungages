@@ -7,7 +7,7 @@
     <meta name="description" content="A website about programming languages">
     <meta name="robots" content="index, follow">
     <title>Python - Programozási Nyelvek</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
@@ -15,9 +15,11 @@
 <?php include 'header.php'; ?>
 <main>
     <h1>Python</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" class="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo"
+         class="logo">
     <h2>Leírás</h2>
-    <p>A Python egy magas szintű, általános célú programozási nyelv, amelyet Guido van Rossum fejlesztett ki. Először 1991-ben jelent meg.</p>
+    <p>A Python egy magas szintű, általános célú programozási nyelv, amelyet Guido van Rossum fejlesztett ki. Először
+        1991-ben jelent meg.</p>
 
     <h2>Előnyök</h2>
     <ul>
@@ -40,7 +42,8 @@ hello_world()
         </code></pre>
 
     <h2>További Információk</h2>
-    <p>További információkat találhat a <a href="https://www.python.org" target="_blank">hivatalos Python weboldalon</a>.</p>
+    <p>További információkat találhat a <a href="https://www.python.org" target="_blank">hivatalos Python weboldalon</a>.
+    </p>
 
     <h2>Táblázat</h2>
     <table>

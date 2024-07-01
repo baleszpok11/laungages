@@ -7,7 +7,7 @@
     <meta name="description" content="A website about programming languages">
     <meta name="robots" content="index, follow">
     <title>JavaScript - Programozási Nyelvek</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
@@ -15,9 +15,11 @@
 <?php include 'header.php'; ?>
 <main>
     <h1>JavaScript</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" class="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo"
+         class="logo">
     <h2>Leírás</h2>
-    <p>A JavaScript egy magas szintű, dinamikus programozási nyelv, amelyet elsősorban webfejlesztéshez használnak. Brendan Eich fejlesztette ki 1995-ben.</p>
+    <p>A JavaScript egy magas szintű, dinamikus programozási nyelv, amelyet elsősorban webfejlesztéshez használnak.
+        Brendan Eich fejlesztette ki 1995-ben.</p>
 
     <h2>Előnyök</h2>
     <ul>
@@ -41,7 +43,8 @@ helloWorld();
         </code></pre>
 
     <h2>További Információk</h2>
-    <p>További információkat találhat a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN JavaScript oldalon</a>.</p>
+    <p>További információkat találhat a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                                           target="_blank">MDN JavaScript oldalon</a>.</p>
 
     <h2>Táblázat</h2>
     <table>
