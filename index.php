@@ -12,17 +12,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
 <body>
-<header>
-    <nav>
-        <ul>
-            <li><a href="index.php">Kezdőlap</a></li>
-            <li><a href="about.php">Rólam</a></li>
-            <li><a href="python.php">Python</a></li>
-            <li><a href="favorites.php">Kedvenc oldalak</a></li>
-            <li><a href="contact.php">Kapcsolat</a></li>
-        </ul>
-    </nav>
-</header>
+<?php
+include 'header.php';
+?>
 <main>
     <h1>Üdvözlöm a programozási nyelvekről szóló oldalon</h1>
     <p><?php echo "Mai dátum: " . date("Y.m.d"); ?></p>

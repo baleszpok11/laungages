@@ -12,20 +12,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
 <body>
-<header>
-    <nav>
-        <ul>
-            <li><a href="index.php">Kezdőlap</a></li>
-            <li><a href="about.php">Rólam</a></li>
-            <li><a href="python.php">Python</a></li>
-            <li><a href="favorites.php">Kedvenc oldalak</a></li>
-            <li><a href="contact.php">Kapcsolat</a></li>
-        </ul>
-    </nav>
-</header>
+<?php include 'header.php'; ?>
 <main>
     <h1>Python</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo">
+    <img src="images/python-logo.png" alt="Python Logo">
     <h2>Leírás</h2>
     <p>A Python egy magas szintű, általános célú programozási nyelv, amelyet Guido van Rossum fejlesztett ki. Először 1991-ben jelent meg.</p>
 
@@ -68,8 +58,6 @@ hello_world()
         </tr>
     </table>
 </main>
-<?php
-include 'footer.php';
-?>
+<?php include 'footer.php'; ?>
 </body>
 </html>
